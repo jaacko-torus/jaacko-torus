@@ -1,4 +1,10 @@
-### Hi there 👋
+# Projects
+
+- [LAO&MM](https://github.com/jaacko-torus/lao-mm) - Image/PDF -> OCR -> translation
+- [HighlightJS-Lox](https://github.com/jaacko-torus/highlightjs-lox) - Syntax highlighting plugin for Lox
+- [Kodikos](https://github.com/jaacko-torus/kodikos) - Highly customizable passphrase generator extension for Chrome
+
+# [Resume](https://github.com/jaacko-torus/resume)
 
 <!--
 **jaacko-torus/jaacko-torus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
