@@ -3,6 +3,7 @@
 - [LAO&MM](https://github.com/jaacko-torus/lao-mm) - Image/PDF -> OCR -> translation
 - [HighlightJS-Lox](https://github.com/jaacko-torus/highlightjs-lox) - Syntax highlighting plugin for Lox
 - [Kodikos](https://github.com/jaacko-torus/kodikos) - Highly customizable passphrase generator extension for Chrome
+- [Lox](https://github.com/jaacko-torus/kodikos) - A Lox interpreter built with Java
 
 # [Resume](https://github.com/jaacko-torus/resume)
 
